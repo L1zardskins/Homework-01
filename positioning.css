@@ -6,6 +6,7 @@ body{
     font-size: 24px;
     line-height: 32px;
     color: #333;
+    background: cadetblue;
 }
 
 #fixed{
@@ -46,11 +47,12 @@ p{
 }
 
 #absolute{
-    background: #999;
+    /* background: #999; */
     position: absolute;
-    width: 250px;
+    /* width: 250px; */
     padding: 20px;
-    text-align: center;
-    bottom: 0;
-    right: -30px;
+    text-align: left;
+    bottom: -28px;
+    right: -38px;
+    /* color: white; */
 }
